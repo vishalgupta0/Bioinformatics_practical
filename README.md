@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal gupta</h1>
 <h3 align="center">A passionate cyber security and data science</h3>
-
-- 🔭 I’m currently working as ** product support engineer in kotak mahindra bank**
+&()$@!
+- 🔭 I’m currently working on  **product support engineer in kotak mahindra bank**
 
 - 👯 I’m looking to collaborate on **Data science and cyber security project**
 
