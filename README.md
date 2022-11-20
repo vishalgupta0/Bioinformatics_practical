@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal gupta</h1>
 <h3 align="center">A passionate cyber security and data science</h3>
-&()$@!
-- 🔭 I’m currently working on **Product engineer in kotak mahindra bank**
+
+- 🔭 I’m currently working as **Kotak mahindra bank as product engineer**
 
 - 👯 I’m looking to collaborate on **Data science and cyber security project**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/vishalgupta111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishalgupta00710" height="30" width="40" /></a>
+<a href="https://kaggle.com/vishalgupta00710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishalgupta00710" height="30" width="40" /></a>
 <a href="https://instagram.com/vishal_viking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal_viking" height="30" width="40" /></a>
 </p>
 
